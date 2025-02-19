@@ -1,0 +1,11 @@
+{
+  "EmailSettings": {
+    "SmtpServer": "smtp.gmail.com",
+    "SmtpPort": 587,
+    "EmailFrom": "sabreenashraf22894@gmail.com",
+    "AppPassword": "yourpassowrd",
+    "EmailTo": ""
+
+  }
+}
+
